@@ -26,7 +26,8 @@
 2. Блок-схема алгоритма:
 >  P.S. Для удобства проверки разных массивов в программе, я использовал `switch`, функции ввода/вывода в консоль.   
 Они не указаны в блок-схеме.
-> ![Block-diagram](Block_diagram.drawio.png)
+>![Block_diagram drawio](https://user-images.githubusercontent.com/115169315/219466337-163b5af1-4396-4f18-b9b4-440547a6a8a7.png)
+
 3. Вы читаете данный фаил `README.md`
 4. Программа находится в ветке [`master`](/Final_task/Program.cs "Открыть решение")
 
