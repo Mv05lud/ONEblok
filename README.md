@@ -98,5 +98,5 @@ void PrintArray(string[] array)
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot_1](https://user-images.githubusercontent.com/115169315/219466607-5e8d1409-ec67-42bb-82dd-0dc7dde4fa02.png)
+>![image](https://user-images.githubusercontent.com/115169315/219467565-db612a76-11f2-4905-8551-aac5f5a70715.png)
 
