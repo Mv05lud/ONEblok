@@ -24,8 +24,6 @@
 ## **Решение**
 1. Вы находитесь в созданном репозитории `Final_test_work_1`.
 2. Блок-схема алгоритма:
->  P.S. Для удобства проверки разных массивов в программе, я использовал `switch`, функции ввода/вывода в консоль.   
-Они не указаны в блок-схеме.
 >![Block_diagram drawio](https://user-images.githubusercontent.com/115169315/219466337-163b5af1-4396-4f18-b9b4-440547a6a8a7.png)
 
 3. Вы читаете данный фаил `README.md`
@@ -97,9 +95,8 @@ void PrintArray(string[] array)
 }
 ```
 
-Результат вывода в терминал:
 
-> ![image answer in terminal](task_done.png)
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](Screenshot_1.png)
+>![Screenshot_1](https://user-images.githubusercontent.com/115169315/219466607-5e8d1409-ec67-42bb-82dd-0dc7dde4fa02.png)
+
